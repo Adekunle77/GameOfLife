@@ -10,4 +10,4 @@ The project was developed using Swift programming lanuage, and the SpriteKit fra
 I wrote a few Unit tests. Also I was going to add a model for the GameScene class, to keep most of the logic out of the GameScene class, and for the purpose of testing. 
 
 ### Apologies 
-There is small delays after, pressing buttons, for after each steps, in the game. 
+There are small delays after, tapping the buttons and after each steps, in the game. 
